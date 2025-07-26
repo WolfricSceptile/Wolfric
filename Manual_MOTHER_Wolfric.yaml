@@ -1,0 +1,8 @@
+name: Wolfric
+description: Default template created by the Manual Builder tool
+
+game: Manual_MOTHER_Wolfric
+
+Manual_MOTHER_Wolfric:
+    progression_balancing: 50
+    accessibility: items
